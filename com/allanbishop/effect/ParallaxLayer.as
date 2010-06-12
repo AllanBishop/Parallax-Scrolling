@@ -1,4 +1,4 @@
-/*
+﻿/*
 Copyright (c) 2010 Allan Bishop
 
 Permission is hereby granted, free of charge, to any person
